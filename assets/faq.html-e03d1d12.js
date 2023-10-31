@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4d3ad2db","path":"/other/faq.html","title":"常见问题","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"我有问题怎么办","slug":"我有问题怎么办","link":"#我有问题怎么办","children":[]}],"git":{},"filePathRelative":"other/faq.md"}');export{t as data};

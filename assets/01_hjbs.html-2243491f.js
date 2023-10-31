@@ -1,0 +1,13 @@
+import{_ as s,r as i,o as d,c as l,a as e,b as t,d as r,e as n}from"./app-df053de9.js";const o={},c=n(`<h1 id="环境部署" tabindex="-1"><a class="header-anchor" href="#环境部署" aria-hidden="true">#</a> 环境部署</h1><h2 id="准备工作" tabindex="-1"><a class="header-anchor" href="#准备工作" aria-hidden="true">#</a> 准备工作</h2><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>NodeJs: v16.18.0
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>如果你对以上环境不熟悉或者说没有了解过，可以参考以下教程：</p>`,4),u={href:"https://www.runoob.com/nodejs/nodejs-install-setup.html",target:"_blank",rel:"noopener noreferrer"},h=n(`<h2 id="运行系统" tabindex="-1"><a class="header-anchor" href="#运行系统" aria-hidden="true">#</a> 运行系统</h2><ol><li>下载源码</li></ol><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">git</span> clone https://gitee.com/zhaoeryu/eu-vue2.git
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol start="2"><li>安装项目依赖</li></ol><p>进入到项目的根目录，执行以下命令：</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> i
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol start="5"><li>启动系统</li></ol><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> run dev
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>当你看到以下日志时，说明系统已经启动成功了。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code> DONE  Compiled successfully in 7744ms                                                                                                                                9:18:24 PM
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.xx.xx:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>浏览器访问：http://localhost:8080 ，账号密码：admin/123123</p>`,11);function v(m,p){const a=i("ExternalLinkIcon");return d(),l("div",null,[c,e("ul",null,[e("li",null,[e("a",u,[t("Nodejs安装教程"),r(a)])])]),h])}const g=s(o,[["render",v],["__file","01_hjbs.html.vue"]]);export{g as default};
