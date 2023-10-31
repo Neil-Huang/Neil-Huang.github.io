@@ -1,6 +1,7 @@
 <h1>这是从别人的github上复制的vuepress文档项目，已此来记录一下以后自己的项目文档也可以这样搭建</h1>
 <p>
     [Github 部署个人网页 | 一键部署 - 知乎](https://zhuanlan.zhihu.com/p/392618246)
+    [Github Actions最佳实践案例，将Markdown文章自动更新到WordPress独立博客-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1779961)
 </p>
 <hr>
 <h1 align="center">EuBackend</h1>
